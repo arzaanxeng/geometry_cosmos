@@ -29,7 +29,7 @@ geometry_cosmos/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/geometry-cosmos.git
+git clone https://github.com/arzaanxeng/geometry-cosmos.git
 cd geometry-cosmos
 ```
 
